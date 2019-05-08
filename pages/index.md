@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to Vorsor Facilities Management
 permalink: /
 section: home
 intro_paragraph: >
