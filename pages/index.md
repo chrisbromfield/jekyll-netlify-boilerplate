@@ -14,6 +14,4 @@ intro_paragraph: >-
 * Lorem ipsum dolor sit amet adipisicing
 * Et dolore magna + Aliqua enim
 
-
-
 ![vorsor van](/assets/img/uploads/van.jpg "van")
