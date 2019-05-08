@@ -1,12 +1,21 @@
 ---
 layout: home
-title: Welcome to Vorsor Facilities Management
+title: Welcome
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: |-
+  ## LOREM IPSUM
+
+  ## NIAGATA ARET
+
+  \-
 ---
++ Lorem ipsum dolor 
+
++ Sit amet, consectetur 
+
++ Lorem ipsum dolor sit amet,
+
++ Lorem ipsum dolor sit amet adipisicing
+
++ Et dolore magna + Aliqua enim
