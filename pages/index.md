@@ -1,20 +1,14 @@
 ---
 layout: home
-title: Welcome to Vorsor Facilities Management
+title: Welcome
 permalink: /
 section: home
 intro_paragraph: |-
+  ## LOREM IPSUM
 
+  ## NIAGATA ARET
 
-  # LOREM IPSUM
-
-  # NIAGATA ARET
-
-  ## Lorem ipsum dolor sit amet,
-
-  ## consectetur adipisicing elit,
-
-  ## labore et dolore
+  \-
 ---
 + Lorem ipsum dolor 
 
