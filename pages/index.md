@@ -4,9 +4,7 @@ title: Welcome
 permalink: /
 section: home
 intro_paragraph: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  Welcome to VORSOR. Home of Facilities Services. Intelligence, integrity and expertise. Where better technology equals greater innovation. Improve your service and manage risk. Reduce overheads. Increase responsiveness. Your mobile workforce, motivation en masse. We give you greater flexibility, freeing up your internal mass so you can focus on core tasks.
 ---
 
 
